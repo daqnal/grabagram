@@ -1,5 +1,0 @@
-# grabagram
-
-## Stack
-- Dioxus
-- Tailwind
